@@ -35,7 +35,7 @@
 
 I am a Full Stack Software developer <img src="https://media.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="30"> with a unique blend of technical expertise and creative problem-solving skills from Kenya.
 
-- 🥇 I’m working as a Software Engineer working in both backend and frontend for android and web applications
+- 🔭 I’m working as a Software Engineer working in both backend and frontend for android and web applications
 
 - :seedling: Currently experiencing new frameworks and technologies like Jetpack Compose in Android.
 
