@@ -37,7 +37,7 @@ I am a Full Stack Software developer <img src="https://media.giphy.com/media/3iy
 
 - 🔭 I’m working as a Software Engineer working in both backend and frontend for android and web applications
 
-- :seedling: Currently experiencing new frameworks and technologies like Jetpack Compose in Android.
+- :seedling: Currently experimenting new frameworks and technologies like Jetpack Compose in Android.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
