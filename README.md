@@ -22,11 +22,11 @@
   <ul>
     <li>
        🩺  <a href="https://github.com/Dalton-47/HOSPITAL-APPOINTMENT-APPLICATION-PROJECT">
-      <img src="https://img.shields.io/badge/Hospital Appointments Scheduler-blue?style=for-the-badge&logo=Hospital&logoColor=white" alt="Hospital Appointments Scheduler Badge"> </a>
+      <img src="https://img.shields.io/badge/HOSPITAL%20APPOINTMENT%20SCHEDULER-blue?style=bold&logo=hospital&logoColor=white" alt="Hospital Appointments Scheduler Badge"> </a>
         </li>
     <li>
-    🏚️  <a href="https://github.com/Dalton-47/RENTAL-MANAGEMENT-DESKTOP-APP"> 
-      <img src="https://img.shields.io/badge/Rental Management Application-orange?style=for-the-badge&logo=R&logoColor=white" alt="Rental Management Badge"> </a>
+    🏚️  <a href="https://github.com/Dalton-47/Task-Management-Application"> 
+      <img src="https://img.shields.io/badge/TASK%20MANAGEMENT%20APPLICATION-orange?style=bold&logo=task&logoColor=white" alt="Task Management"> </a>
         </li>
   </ul>
       </div>
