@@ -20,14 +20,17 @@
  <div class="github-projects">
        <h2>⚓Key Projects :</h2>
   <ul>
-    <li>
-       🩺  <a href="https://github.com/Dalton-47/HOSPITAL-APPOINTMENT-APPLICATION-PROJECT">
-      <img src="https://img.shields.io/badge/HOSPITAL%20APPOINTMENT%20SCHEDULER-blue?style=bold&logo=hospital&logoColor=white" alt="Hospital Appointments Scheduler Badge"> </a>
-        </li>
-    <li>
-    🏚️  <a href="https://github.com/Dalton-47/Task-Management-Application"> 
-      <img src="https://img.shields.io/badge/TASK%20MANAGEMENT%20APPLICATION-orange?style=bold&logo=task&logoColor=white" alt="Task Management"> </a>
-        </li>
+   <li>
+  🚀 <a href="https://github.com/Dalton-47/Beginner-Guide-to-Deploying-an-End-to-End-Pipeline-from-GitHub-to-EC2-with-Jenkins.git">
+    <img src="https://img.shields.io/badge/Deployment%20Guide%20with%20Jenkins-2391e6?style=for-the-badge&logo=github&logoColor=white" alt="Deployment Guide with Jenkins Badge">
+  </a>
+</li>
+<li>
+  🏆 <a href="https://github.com/Dalton-47/Task-Management-Application">
+    <img src="https://img.shields.io/badge/Task%20Management%20Application-FE7D37?style=for-the-badge&logo=taskade&logoColor=white" alt="Task Management Application Badge">
+  </a>
+</li>
+
   </ul>
       </div>
 
