@@ -21,7 +21,7 @@
        <h2>⚓Key Projects :</h2>
   <ul>
    <li>
-  🚀 <a href="https://github.com/Dalton-47/Beginner-Guide-to-Deploying-an-End-to-End-Pipeline-from-GitHub-to-EC2-with-Jenkins.git">
+  🚀 <a href="https://github.com/Dalton-47/Beginner-Guide-to-Deploying-an-End-to-End-Pipeline-from-GitHub-to-EC2-with-Jenkins.">
     <img src="https://img.shields.io/badge/Deployment%20Guide%20with%20Jenkins-2391e6?style=for-the-badge&logo=github&logoColor=white" alt="Deployment Guide with Jenkins Badge">
   </a>
 </li>
