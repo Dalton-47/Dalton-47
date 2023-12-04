@@ -44,11 +44,11 @@ I am a Full Stack Software developer <img src="https://media.giphy.com/media/3iy
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:Incase you would like to reach out I'm active on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Dalton_Leyian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-leyian-kimorgo/)
+- 📪 Incase you would like to reach out I'm active on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Dalton_Leyian-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-leyian-kimorgo/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
@@ -66,12 +66,12 @@ I am a Full Stack Software developer <img src="https://media.giphy.com/media/3iy
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dalton-47&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalton-47&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### :wink: Puzzle Time :
+### 😜 Puzzle Time :
 ▶️ Why did the two Java methods get a divorce? 🤔
